@@ -19,6 +19,7 @@ The tasks are all about Javascript and jQuery exercise. It is going to be very b
 - `Add` button should add a topic (an `li` element inside 2 `span` elements).
 - There is a `checkbox` under the topics. It should hide all topics when checked, unhide when unchecked. (hide all `ul` elements)
 - There is search field above. It should filter the topics (filter `li` elements). It should be case-insensitive.
+- After finishing the tasks; do `add` `commit` and `push` to update the repository on your GitHub account, and share the link of the repo via Trello.
 
 
 ---

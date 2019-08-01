@@ -37,7 +37,7 @@ $( "button.continue" ).html( "Next Step..." )
 
 6. Filtering
 
-7.jQuery Effects
+7. jQuery Effects
 
 
 

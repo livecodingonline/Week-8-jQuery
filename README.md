@@ -1,18 +1,27 @@
 ## Week-8-jQuery
+
 Hello everyone. 
 
-Intro...
-...
-...
-
-
----
+We'll go over setting up the project's HTML structure, linking CSS and JavaScript files, 
+and more stuff with Jquery 
 
 ### Sunday Session
 
 #### Lecture
+
 ##### What is jQuery?
+
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers
+
+##### A Brief Look
+
+###### DOM Traversal and Manipulation
+
+Get the ```<button>``` element with the class 'continue' and change its HTML to 'Next Step...'
+
+```javascript
+$( "button.continue" ).html( "Next Step..." )
+```
 
 ##### Topics
 

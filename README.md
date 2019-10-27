@@ -3,7 +3,7 @@
 Hello everyone. 
 
 We'll go over setting up the project's HTML structure, linking CSS and JavaScript files, 
-and more stuff with Jquery 
+and more stuff with jQuery 
 
 ### Sunday Session
 
